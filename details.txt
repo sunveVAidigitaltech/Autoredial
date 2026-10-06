@@ -1,0 +1,29 @@
+App Name: Auto Redial
+Package Name: com.vaidigitaltech.autoredial
+
+a. Version: 1.0 (Version Code: 1)
+
+b. Release Notes:
+- Initial Release of Auto Redial.
+- Added Smart Cycle Dialing to automatically redial a sequence of numbers.
+- Integrated persistent Call History logs.
+- Added Precision Delays (up to 15 minutes) between calls.
+- Integrated Scheduled Calling.
+- Added Auto Speakerphone toggle.
+
+c. Short Description:
+Smart auto redialer for busy lines. Schedule calls, manage history, and dial automatically!
+
+d. Long Description:
+Auto Redial is the ultimate productivity tool for getting through to busy phone lines, customer service centers, or sold-out ticket hotlines. 
+
+With Auto Redial, you can queue up a list of target numbers and the app will automatically cycle through them, calling each one seamlessly until someone picks up. 
+
+Key Features:
+- Smart Cycle Dialing: Enter multiple numbers (e.g., Doctor's office line 1, line 2, line 3) and the app will loop through them.
+- Precision Delays: Set the exact delay between calls, anywhere from 1 second to 15 minutes.
+- Auto Speakerphone: Automatically turn on the speakerphone the moment the call connects.
+- Call History: Automatically logs every call session, showing you exactly how many attempts were made and to which numbers.
+- Scheduled Calling: Need to be the first caller at 8:00 AM? Set a scheduled redial session and the app will wake up and start dialing exactly on time.
+
+Stop wasting time manually tapping redial. Let Auto Redial do the hard work for you.
